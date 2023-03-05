@@ -114,6 +114,7 @@ padding: 30px;
     {
     text-align: end;
     font-size: 14px;
-    padding: 30px;
+    padding-right: 30px;
+    padding-bottom: 0;
     }
 }
